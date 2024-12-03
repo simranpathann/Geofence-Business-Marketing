@@ -1,2 +1,4 @@
 # Geofence-Business-Marketing
-My first project is  Geofence business marketing project.  This aap show the notification of the nearby business when user enter within 1km user will get the notification of nearby businesses. Business man can add the businesses for market purpose. 
+Developed a mobile app to improve shopping by tracking user locations and sending real-time alerts when they
+are near participating stores. The app uses geofencing to detect when a user enters a store's area, triggering
+notifications with details about nearby shops and special deals.
